@@ -39,7 +39,7 @@ If it works, you should see two .dll files copied to your Fiddler ImportExport f
 ## Using this Extension
 
 If you don't want to build the project you can get the binaries from the 
-[releases of this repository](https://github.com/bdrupieski/FiddlerExportToPostman/releases).
+[releases of this repository](https://github.com/simpleworldz/FiddlerExportToPostman/releases).
 
 Unzip the archive and put the two .dll files into 
 `%USERPROFILE%\My Documents\Fiddler2\ImportExport\`. You may have to create the ImportExport
